@@ -6,7 +6,7 @@
 * 💬 Ask me about C++, Web Dev, Open Source.
 * 📫 Reach me at: 📧[Email ID](ranjanpulkit2910@gmail.com) 🧑‍💼[LinkedIn](https://www.linkedin.com/in/pulkit-ranjan-ab4897215/)
 
-[![LinkedIn: Pulkit Ranjan](https://img.shields.io/badge/-Pulkit-lightblue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-ranjan-ab4897215/)](https://www.linkedin.com/in/pulkit-ranjan-ab4897215/)
+[![LinkedIn: Pulkit Ranjan](https://img.shields.io/badge/-Pulkit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pulkit-ranjan-ab4897215/)](https://www.linkedin.com/in/pulkit-ranjan-ab4897215/)
 [![GitHub pulki2910-bit](https://img.shields.io/github/followers/pulkit2910-bit?label=follow&style=social)](https://github.com/pulkit2910-bit)
 
 ---
